@@ -1,3 +1,5 @@
+<img src="figs/glm.jpeg" alt="General Lake Model" width="500"/>
+
 <iframe src="All/All.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
