@@ -6,5 +6,5 @@
     height="500"
     scrolling="no"
     seamless="seamless"
-    frameborder="0">
-</iframe>
+    frameborder="0"/>
+
